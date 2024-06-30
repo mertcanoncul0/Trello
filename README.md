@@ -1,6 +1,6 @@
 # Trello Clone
 
-It may be one of the projects I have progressed the most in the Unfinished Projects section, I added it to githuba so that it would not be wasted. Maybe it will continue in the future.
+It may be one of the projects I have progressed the most in the Unfinished Projects section, I added it to github so that it would not be wasted. Maybe it will continue in the future.
 
 ## Technologies Used
 
