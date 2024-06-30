@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Trello Clone
 
-## Getting Started
+It may be one of the projects I have progressed the most in the Unfinished Projects section, I added it to githuba so that it would not be wasted. Maybe it will continue in the future.
 
-First, run the development server:
+## Technologies Used
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Main Dependencies
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- @clerk/nextjs: ^4.27.4
+- @hello-pangea/dnd: ^16.5.0
+- @prisma/client: ^5.7.0
+- @radix-ui/react-accordion: ^1.1.2
+- @radix-ui/react-dialog: ^1.0.5
+- @radix-ui/react-dropdown-menu: ^2.0.6
+- @radix-ui/react-label: ^2.0.2
+- @radix-ui/react-popover: ^1.0.7
+- @radix-ui/react-separator: ^1.0.3
+- @radix-ui/react-slot: ^1.0.2
+- @radix-ui/react-tooltip: ^1.0.7
+- class-variance-authority: ^0.7.0
+- clsx: ^2.0.0
+- lodash: ^4.17.21
+- lucide-react: ^0.294.0
+- next: 14.0.3
+- react: ^18
+- react-dom: ^18
+- sonner: ^1.2.4
+- tailwind-merge: ^2.1.0
+- tailwindcss-animate: ^1.0.7
+- unsplash-js: ^7.0.18
+- usehooks-ts: ^2.9.1
+- zod: ^3.22.4
+- zustand: ^4.4.7
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Development Dependencies
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- @types/lodash: ^4.14.202
+- @types/node: ^20
+- @types/react: ^18
+- @types/react-dom: ^18
+- autoprefixer: ^10.0.1
+- eslint: ^8
+- eslint-config-next: 14.0.3
+- postcss: ^8
+- prisma: ^5.7.0
+- tailwindcss: ^3.3.0
+- typescript: ^5
